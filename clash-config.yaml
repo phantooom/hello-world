@@ -152,5 +152,5 @@ rule-providers:
   gfw: { <<: *domain, url: "https://gh-proxy.com/https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/gfw.txt"}
   telegramcidr: { <<: *ip, url: "https://gh-proxy.com/https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/telegramcidr.txt"}
   phantooom_fake_ip_domain: {type: http, interval: 86400, behavior: domain, format: text, url: "https://raw.githubusercontent.com/phantooom/hello-world/refs/heads/main/clash-fake.txt"}
-  phantooom_custom_domain: {type: http, interval: 86400, behavior: domain, format: text, url: "/https://raw.githubusercontent.com/phantooom/hello-world/refs/heads/main/clash-rule.txt"}
+  phantooom_custom_domain: {type: http, interval: 86400, behavior: domain, format: text, url: "https://raw.githubusercontent.com/phantooom/hello-world/refs/heads/main/clash-rule.txt"}
   phantooom_aistudio: { <<: *class, url: "https://raw.githubusercontent.com/phantooom/hello-world/refs/heads/main/google-aistudio.yaml"}
