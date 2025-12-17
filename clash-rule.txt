@@ -1,1 +1,2 @@
 +.mcr.microsoft.com
++.r2.cloudflarestorage.com
