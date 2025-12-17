@@ -107,6 +107,7 @@ rules:
   - RULE-SET,apple_domain,直连
   - RULE-SET,reject,REJECT
   - RULE-SET,phantooom_aistudio,🤖 ChatGPT
+  - RULE-SET,phantooom_custom_domain,🚀 默认代理
   - RULE-SET,ai,🤖 ChatGPT
   - RULE-SET,github_domain,👨🏿‍💻 GitHub
   - RULE-SET,youtube_domain,📹 YouTube
