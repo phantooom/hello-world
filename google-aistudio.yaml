@@ -12,3 +12,5 @@ payload:
   - DOMAIN-KEYWORD,colab
   - DOMAIN-KEYWORD,developerprofiles
   - DOMAIN-KEYWORD,generativelanguage
+  - DOMAIN-KEYWORD,claude,chained
+  - DOMAIN-KEYWORD,anthropic,chained
